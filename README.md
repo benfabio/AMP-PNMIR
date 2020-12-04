@@ -1,4 +1,4 @@
-# Postdoc-1-AMP-PNMIR
+### AMP-PNMIR phytoplankton and zooplankton data
 R codes developed during my first (and short) postdoc at UMR 7093-LOV
 
 ### 04/12/2020
